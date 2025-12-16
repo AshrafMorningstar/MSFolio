@@ -1,7 +1,7 @@
 {
   "name": "msfolio",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "🪟 MSFolio - The Ultimate Microsoft-Style Portfolio. A pixel-perfect Windows 11 recreation in React.",
   "author": "Ashraf Morningstar <https://github.com/AshrafMorningstar>",
   "keywords": ["react", "windows-11", "clone", "portfolio"],
